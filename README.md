@@ -2,14 +2,11 @@
 
 I am Daniel Sanches, I studied at COTUCA as a Systems Development student, I am currently at METROCAMP studying Computer Engineering. I am currently interning at RAG Sistemas as a back-end programmer and customer support. I like backend, game development and I'm currently studying it again. I've stopped updating my GitHub for a while now so I'm getting back to using it for my personal development projects.
 
-## Competências
-*💻 HTML/JS/CSS \n
-*💻 C# \n
-*💻 Python \n
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyyel&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+</div>
 
 <!--
 **Sanyyel/sanyyel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
