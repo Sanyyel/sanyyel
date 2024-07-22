@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-I am Daniel Sanches, I studied at COTUCA as a Systems Development student, I am currently at METROCAMP studying Computer Engineering. I am currently interning at RAG Sistemas as a back-end programmer and customer support. I like backend, game development and I'm currently studying it again.
+I am Daniel Sanches, I studied at COTUCA as a Systems Development student, I am currently at METROCAMP studying Computer Engineering. I am currently interning at RAG Sistemas as a back-end programmer and customer support. I like backend, game development and I'm currently studying it again. I've stopped updating my GitHub for a while now so I'm getting back to using it for my personal development projects.
+
+## Competências
+*💻 HTML/JS/CSS
+*💻 C#
+*💻 Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyyel&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
