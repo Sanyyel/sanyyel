@@ -5,7 +5,7 @@ I am Daniel Sanches, I studied at COTUCA as a Systems Development student, I am 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyyel&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30"/>
 </div>
 
 <!--
